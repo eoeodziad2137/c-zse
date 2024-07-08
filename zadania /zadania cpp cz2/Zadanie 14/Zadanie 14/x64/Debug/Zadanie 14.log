@@ -1,0 +1,5 @@
+﻿  Zadanie 14.cpp
+C:\Users\Komputer98187614\Desktop\zawodowe\c++(c# lepszy)\Zadanie 14\Zadanie 14\Zadanie 14.cpp(70,13): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Komputer98187614\Desktop\zawodowe\c++(c# lepszy)\Zadanie 14\Zadanie 14\Zadanie 14.cpp(75,12): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Komputer98187614\Desktop\zawodowe\c++(c# lepszy)\Zadanie 14\Zadanie 14\Zadanie 14.cpp(79,12): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+  Zadanie 14.vcxproj -> C:\Users\Komputer98187614\Desktop\zawodowe\c++(c# lepszy)\Zadanie 14\x64\Debug\Zadanie 14.exe
